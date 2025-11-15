@@ -5,8 +5,8 @@ This project explores various **clustering algorithms** applied to a structured 
 
 ## Visuals & Demo
 
-* **Project Image:** [Watch Demo](assets/image.mp4)  
-* **Project Documentation:** ![Documentation](assets/documentation.png)  
+* **Project Image:** [Watch Demo](assets/image.png)  
+* **Project Documentation:** ![Documentation](assets/documentation.pdf)  
 
 
 ---
